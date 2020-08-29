@@ -146,6 +146,8 @@ git checkout codigo do comite -- nome_do_arquivo
 git commit -am "nome do commit"
 
 git push //para enviar para o repositorio
+
+git config --global credential.helper store //para não ficar informando login e senha toda hora
 ```
 ### Referência 📖
 
