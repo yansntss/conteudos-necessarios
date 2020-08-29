@@ -1,13 +1,13 @@
 ## Como colocar um README no perfil do github. 
-![perfil-git](imgGifs\perfil-git.gif)
+![perfil-git](imgGifs/perfil-git.gif)
 
 # Passos:
 * Crie um novo repositório;
-![passo-1](imgGifs\passo-1.png)
+![passo-1](imgGifs/passo-1.png)
 
 * Coloque o mesmo nome do seu users como mostra na imagem abaixo;
 (como eu ja tenho esse repositório, vai aparecer essa mensagem "The repository yansntss already exists on this account" falando que que ja existe um repositório com esse nome.)
-![passo-1](imgGifs\passo-2.png)
+![passo-1](imgGifs/passo-2.png)
 
 * Lembre de deixar o repositório publico e inicializar com o README
 
